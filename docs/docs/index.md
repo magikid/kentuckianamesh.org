@@ -38,5 +38,5 @@ The purpose of Kentuckiana Mesh is to expand coverage in our area and build out 
 
 There are a couple of other Kentuckia Mesh sites that you might want to visit:
 
-- https://mesh-ky.org/
-- https://meshcorelexington.com/
+- [https://mesh-ky.org/](https://mesh-ky.org/)
+- [https://meshcorelexington.com/](https://meshcorelexington.com/)
