@@ -1,10 +1,10 @@
-# ChicagolandMesh.org
+# KentuckianaMesh.org
 
-ChicagolandMesh.org is the official website for the Chicagoland Mesh utilizing the Meshtastic open-source mesh networking platform.
+KentuckianaMesh.org is a fan website for the Kentuckiana Mesh utilizing the Meshtastic open-source mesh networking platform.
 
 ## About Meshtastic and Chicagoland Mesh
 
-This repository contains the source code for ChicagolandMesh.org, the official website of Chicagoland Mesh. We use the Meshtastic platform, an open-source mesh networking solution, to build decentralized communication networks across the Chicagoland area.
+This repository contains the source code for KentuckianaMesh.org, a fan website of Kentuckiana Mesh. We use the Meshtastic platform, an open-source mesh networking solution, to build decentralized communication networks across the Kentuckiana area.
 
 ## Contributing
 

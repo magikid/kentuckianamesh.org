@@ -1,0 +1,18 @@
+site_name: Kentuckiana Mesh
+site_description: >-
+  Join the local community of Meshtastic enthusiasts in the Kentuckiana area, and collaborate in building a sustainable and interconnected network of decentralized nodes that have the capability of sending encrypted text messages, telemetry, and location.
+site_url: https://kentuckianamesh.org
+repo_url: https://github.com/magikid/kentuckianamesh.org
+copyright: 'Copyright &copy; 2025 Kentuckiana Mesh <u><a href="https://github.com/magikid/kentuckianamesh.org/contributors">Contributors</a></u><br><p style="margin:0">Kentuckiana Mesh is not affilated with <u><a href="https://meshtastic.org" target="_blank" rel="noreferrer noopener">Meshtastic®</a></u>, nor endorsed by <u><a href="https://meshtastic.org/docs/legal/licensing-and-trademark" target="_blank" rel="noreferrer noopener">Meshtastic LLC</a></u>.</p>'
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Common Mistakes: avoid-mistakes.md
+  - Contact: contact.md
+
+theme:
+  name: readthedocs
+
+markdown_extensions:
+  - admonition
