@@ -1,6 +1,3 @@
----
-title: Contact
-hide: navigation
----
+# Contact
 
 Reach out on our [Discord server](https://discord.gg/eqZzwXfFn9)!

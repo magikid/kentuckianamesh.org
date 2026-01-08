@@ -1,7 +1,3 @@
----
-title: Getting Started with Meshtastic
----
-
 # Getting Started with Meshtastic (915MHz, US)
 
 Meshtastic is a mesh networking project that utilizes affordable, long-range, and low-power radio hardware to create ad-hoc mesh networks. This guide will help you set up Meshtastic on the 915MHz frequency band in the United States.
