@@ -1,0 +1,19 @@
+name: Deploy
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Deploy
+        run: |
+          apt update 
+          apt-get install --assume-yes --no-install-recommends mkdocs
+          mkdocs gh-deploy -f docs/mkdocs.yml
+
+
