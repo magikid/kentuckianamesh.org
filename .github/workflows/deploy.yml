@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v5
       - name: Deploy
         run: |
-          apt update 
-          apt-get install --assume-yes --no-install-recommends mkdocs
+          sudo apt-get update 
+          sudo apt-get install --assume-yes --no-install-recommends mkdocs
           mkdocs gh-deploy -f docs/mkdocs.yml
 
 
