@@ -14,5 +14,5 @@ jobs:
         run: |
           sudo apt-get update 
           sudo apt-get install --assume-yes --no-install-recommends mkdocs
-          mkdocs gh-deploy -f docs/mkdocs.yml --force
+          mkdocs gh-deploy -f docs/mkdocs.yml
 
